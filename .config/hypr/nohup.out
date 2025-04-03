@@ -1,0 +1,81 @@
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 8.3MB
+[LOG] Preloaded target /home/jm/Pictures/Wallpapers/black.png in 8.91ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/jm/Pictures/Wallpapers/black.png, Shared Memory usage: 8.3MB
+[LOG] Total SM usage for all buffers: 8.3MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/29e2e59fdbab8ed2cc23a20e3c6043d5decb5cdc_1743494772_1575195056/.hyprpaper.sock (fd: 4)
+[LOG] configure for HDMI-A-1
+[LOG] configure for HDMI-A-1
+[LOG] Image data for HDMI-A-1: /home/jm/Pictures/Wallpapers/black.png at [-0.00, 0.00], scale: 1.00 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1920x1080 for 6247733513e0
+[LOG] handlePreferredScale: 1.00 for 6247733513e0
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 8.3MB
+[LOG] Preloaded target /home/jm/Pictures/Wallpapers/black.png in 17.05ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/jm/Pictures/Wallpapers/black.png, Shared Memory usage: 8.3MB
+[LOG] Total SM usage for all buffers: 8.3MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/29e2e59fdbab8ed2cc23a20e3c6043d5decb5cdc_1743494772_1575195056/.hyprpaper.sock (fd: 4)
+[LOG] configure for HDMI-A-1
+[LOG] configure for HDMI-A-1
+[LOG] Image data for HDMI-A-1: /home/jm/Pictures/Wallpapers/black.png at [-0.00, 0.00], scale: 1.00 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1920x1080 for 643a6d8127f0
+[LOG] handlePreferredScale: 1.00 for 643a6d8127f0
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 8.3MB
+[LOG] Preloaded target /home/jm/Pictures/Wallpapers/black.png in 10.69ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/jm/Pictures/Wallpapers/black.png, Shared Memory usage: 8.3MB
+[LOG] Total SM usage for all buffers: 8.3MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/29e2e59fdbab8ed2cc23a20e3c6043d5decb5cdc_1743494772_1575195056/.hyprpaper.sock (fd: 4)
+[LOG] configure for HDMI-A-1
+[LOG] configure for HDMI-A-1
+[LOG] Image data for HDMI-A-1: /home/jm/Pictures/Wallpapers/black.png at [-0.00, 0.00], scale: 1.00 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1920x1080 for 5bb6c102da40
+[LOG] handlePreferredScale: 1.00 for 5bb6c102da40
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 8.3MB
+Error in config: 
+Config error in file /home/jm/.config/hypr/hyprpaper.conf at line 1: no such file: /home/jm/Pictures/Wallpapers/fish.png
+[WARN] Monitor HDMI-A-1 does not have a target! A wallpaper will not be created.
+[LOG] hyprpaper socket started at /run/user/1000/hypr/29e2e59fdbab8ed2cc23a20e3c6043d5decb5cdc_1743494772_1575195056/.hyprpaper.sock (fd: 4)
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[CRITICAL] Cannot launch multiple instances of Hyprpaper at once!
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Preloaded target /home/jm/Pictures/Wallpapers/fish.jpg in 2.10ms -> Pixel size: [1024, 768]
+[LOG] Buffer created for target /home/jm/Pictures/Wallpapers/fish.jpg, Shared Memory usage: 8.3MB
+[LOG] Total SM usage for all buffers: 8.3MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/29e2e59fdbab8ed2cc23a20e3c6043d5decb5cdc_1743494772_1575195056/.hyprpaper.sock (fd: 4)
+[LOG] configure for HDMI-A-1
+[LOG] configure for HDMI-A-1
+[LOG] Image data for HDMI-A-1: /home/jm/Pictures/Wallpapers/fish.jpg at [0.00, -96.00], scale: 1.88 (original image size: [1024, 768])
+[LOG] Submitting viewport dest size 1920x1080 for 6243fbd5b380
+[LOG] handlePreferredScale: 1.00 for 6243fbd5b380
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 8.3MB
+[LOG] Preloaded target /home/jm/Pictures/Wallpapers/commandline.png in 16.17ms -> Pixel size: [2561, 1601]
+[LOG] Buffer created for target /home/jm/Pictures/Wallpapers/commandline.png, Shared Memory usage: 8.3MB
+[LOG] Total SM usage for all buffers: 8.3MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/29e2e59fdbab8ed2cc23a20e3c6043d5decb5cdc_1743494772_1575195056/.hyprpaper.sock (fd: 4)
+[LOG] configure for HDMI-A-1
+[LOG] configure for HDMI-A-1
+[LOG] Image data for HDMI-A-1: /home/jm/Pictures/Wallpapers/commandline.png at [0.00, -80.22], scale: 0.75 (original image size: [2561, 1601])
+[LOG] Submitting viewport dest size 1920x1080 for 5836b3f6df10
+[LOG] handlePreferredScale: 1.00 for 5836b3f6df10
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 8.3MB
+[LOG] Preloaded target /home/jm/Pictures/Wallpapers/black.png in 9.34ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/jm/Pictures/Wallpapers/black.png, Shared Memory usage: 8.3MB
+[LOG] Total SM usage for all buffers: 8.3MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/29e2e59fdbab8ed2cc23a20e3c6043d5decb5cdc_1743494772_1575195056/.hyprpaper.sock (fd: 4)
+[LOG] configure for HDMI-A-1
+[LOG] configure for HDMI-A-1
+[LOG] Image data for HDMI-A-1: /home/jm/Pictures/Wallpapers/black.png at [-0.00, 0.00], scale: 1.00 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1920x1080 for 58f77a0f0a20
+[LOG] handlePreferredScale: 1.00 for 58f77a0f0a20
